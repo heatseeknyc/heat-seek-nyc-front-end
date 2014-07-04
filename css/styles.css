@@ -230,13 +230,27 @@ color:#ff9a33;
 /*----Edit by Ethan Ozelius -----*/
 
 .about-bullets{
-	text-align: left;
-	padding-left: 100px;
 	font-size: 22px;
+	font: #000;
 }
 
 /*--- End of Edit by Ethan Ozelius--------*/
 
+/*for about page */
+#about-center-control {
+	display: block;
+	text-align: center;
+	padding: 30px 0 0;
+	margin: auto;
+	height: auto;
+	overflow: hidden;
+}
+
+.jumbotron {
+	opacity: 0.8
+}
+
+/* end of about section styles */
 
 /* VIDEO */
 
@@ -293,7 +307,6 @@ color:#ff9a33;
 	height: 675px;
 	overflow: hidden;
 }
-
 
 #center-content #play-button {
 	margin-top: 20px;
