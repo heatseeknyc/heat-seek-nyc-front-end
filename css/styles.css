@@ -194,10 +194,6 @@ color:#ff9a33;
 }
 
 
-
-
-
-
 #homesplash {
 	background: #efefee url('../images/nyc_snow-edited_crop.jpg') no-repeat top center;
 	background-attachment: fixed;
@@ -230,6 +226,16 @@ color:#ff9a33;
 	-o-transition: opacity 0.1s ease-out;  /* Opera 10.50â€“12.00 */
 	transition: opacity 0.1s ease-out;  /* Chrome 26, Firefox 16+, IE 10+, Opera 12.10+ */
 }
+
+/*----Edit by Ethan Ozelius -----*/
+
+.about-bullets{
+	text-align: left;
+	padding-left: 100px;
+	font-size: 22px;
+}
+
+/*--- End of Edit by Ethan Ozelius--------*/
 
 
 /* VIDEO */
@@ -279,6 +285,16 @@ color:#ff9a33;
 	overflow: hidden;
 }
 
+#center-control-extend{
+	display: block;
+	text-align: center;
+	padding: 0;
+	margin: auto;
+	height: 675px;
+	overflow: hidden;
+}
+
+
 #center-content #play-button {
 	margin-top: 20px;
 	display: inline-block;
@@ -296,8 +312,6 @@ color:#ff9a33;
 	background: url("../images/play-button-hover-@2x.png") no-repeat;
 	background-size: 77px 77px;
 }
-
-
 
 #features {	
 width:100%;
