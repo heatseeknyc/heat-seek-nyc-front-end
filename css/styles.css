@@ -474,6 +474,32 @@ font-weight: 400;
 #mc_embed_signup label.error {display:block; float:none; width:auto; margin-left:1.05em; text-align:left; padding:.5em 0;}
 
 
+
+/*---------Ethan O---------*/
+.spacer_bar{
+	background-color: #252729;
+	height: 11px;
+	width: 100%;
+	margin: 0 auto;
+	
+	
+}
+
+.core_team{
+	margin-top: 0;
+	font-family: font-family: 'Source Sans Pro', sans-serif; ;
+}
+
+.social_bios{
+	margin-left: -14px;
+	height: 120px;
+	
+}
+
+.social_bios > img{
+	padding-right: 10px;
+}
+
 /* tablets */
 
 @media (min-width: 768px) {
