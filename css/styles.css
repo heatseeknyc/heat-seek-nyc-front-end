@@ -478,7 +478,7 @@ font-weight: 400;
 /*---------Ethan O---------*/
 .spacer_bar{
 	background-color: #252729;
-	height: 11px;
+	height: 6px;
 	width: 100%;
 	margin: 0 auto;
 	
@@ -486,18 +486,28 @@ font-weight: 400;
 }
 
 .core_team{
-	margin-top: 0;
-	font-family: font-family: 'Source Sans Pro', sans-serif; ;
+	margin: 10px 0 10px 0;
+	font-family: source sans pro;
+	font-weight: bold;
+	font-size: 25px; 
+	transform:scale(1,1.39); /* W3C */
+    -webkit-transform:scale(1,1.39); /* Safari and Chrome */
+    -moz-transform:scale(1,1.39); /* Firefox */
+    -ms-transform:scale(1,1.39); /* IE 9 */
+    -o-transform:scale(1,1.39); /* Opera */
 }
 
 .social_bios{
-	margin-left: -14px;
-	height: 120px;
-	
+	height: 150px;
 }
 
-.social_bios > img{
-	padding-right: 10px;
+.name_bios{
+	font-family: source sans pro;
+	font-weight: bold;
+}
+
+.job_bios{
+	font-style: italic;
 }
 
 /* tablets */
