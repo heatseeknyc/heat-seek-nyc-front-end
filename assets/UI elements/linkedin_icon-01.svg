@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 16.0.4, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="20px" height="20px" viewBox="0 0 20 20" enable-background="new 0 0 20 20" xml:space="preserve">
+<g>
+	<path fill="#FB500B" d="M10,20C4.485,20,0,15.515,0,10S4.485,0,10,0c5.514,0,10,4.485,10,10S15.514,20,10,20z M10,1.053
+		c-4.934,0-8.947,4.014-8.947,8.947S5.066,18.947,10,18.947c4.933,0,8.947-4.014,8.947-8.947S14.933,1.053,10,1.053z"/>
+	<g>
+		<path fill-rule="evenodd" clip-rule="evenodd" fill="#FB500B" d="M7.482,14.508V7.736h-2.25v6.771H7.482L7.482,14.508z
+			 M6.357,6.812c0.785,0,1.275-0.52,1.275-1.17c-0.016-0.664-0.49-1.17-1.26-1.17s-1.272,0.506-1.272,1.17
+			c0,0.65,0.487,1.17,1.243,1.17H6.357L6.357,6.812z"/>
+		<path fill-rule="evenodd" clip-rule="evenodd" fill="#FB500B" d="M8.729,14.508h2.251v-3.782c0-0.202,0.014-0.403,0.074-0.55
+			c0.162-0.403,0.532-0.822,1.153-0.822c0.815,0,1.142,0.622,1.142,1.532v3.622h2.25v-3.883c0-2.081-1.11-3.048-2.591-3.048
+			c-1.216,0-1.747,0.679-2.044,1.142h0.016V7.736H8.729C8.76,8.372,8.729,14.508,8.729,14.508L8.729,14.508z"/>
+	</g>
+</g>
+</svg>
